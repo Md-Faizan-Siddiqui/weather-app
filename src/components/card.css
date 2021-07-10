@@ -1,0 +1,23 @@
+.card {
+  width: 35%;
+  background-color: #ebe9ee;
+  border-radius: 10px;
+  margin: 20px 20px 20px 20px;
+  height: 250px;
+  color: black;
+}
+.nul-condition {
+  align-items: center;
+}
+.lineHight {
+  line-height: 60px;
+}
+.if-condition {
+  display: flex;
+  justify-content: center;
+  height: inherit;
+  align-items: center;
+}
+.els-condition {
+  padding: 15px 0 15px 0;
+}

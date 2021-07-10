@@ -1,0 +1,13 @@
+.btn {
+  height: 50px;
+  width: 100px;
+  border-radius: 10px;
+  border: none;
+  background-color: #ebe9ee;
+  cursor: pointer;
+  color: black;
+  margin: 20px 20px 20px 0;
+}
+.btn:focus {
+  outline: none;
+}
